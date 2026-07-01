@@ -1,0 +1,450 @@
+canonical_identifier: bkk:krp/KR6q0219/v1
+canonical_location: https://kanripo.org/bkk/KR6q0219/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 漆園指通
+  identifiers:
+    alt_id:
+    - J34nB296
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/J/J34/J34nB296.xml
+    old_id: J34nB296
+  edition:
+    short: bkk
+editions:
+- short: 嘉興
+  label: 嘉興
+  source_xml_id: wit.orig
+- short: 嘉興-CB
+  label: 嘉興-CB
+  source_xml_id: wit1
+- short: J
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0219_000.yaml, hash: 'sha256:2d5ebaccce60a61d6bb2f885da6ab8ec6ad6ea7e77584d54112b1690226ef16d'}
+  - {seq: 1, filename: KR6q0219_001.yaml, hash: 'sha256:34b7a25199d54c169c037bc3c4d54cba8a9fe595b4bfb4b347c8c027dad53731'}
+  - {seq: 2, filename: KR6q0219_002.yaml, hash: 'sha256:c96f204d753a8048d9c50d7b0db202df4cadd300ab79f9ec8e3cea3a3ebdfe74'}
+  - {seq: 3, filename: KR6q0219_003.yaml, hash: 'sha256:d12e2c7587f6901b991ef6c608204814cc7b00a1e086625dcd0d2b7708ba6b67'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0219_000.markers.yaml, hash: 'sha256:22ee74cb577450b501814f6f67deea7aa1c96ea52fcf3bd72e05b737d9b1b38d'}
+  - {seq: 1, role: markers, filename: assets/KR6q0219_001.markers.yaml, hash: 'sha256:243ef2eb030fefc76244b0dac9594b8795ccf162da78b866c191af05a858e5d4'}
+  - {seq: 2, role: markers, filename: assets/KR6q0219_002.markers.yaml, hash: 'sha256:3dd7da497dbc5c0658424b8a5195882d745b0a5e396dfd9f8529f13872964e0a'}
+  - {seq: 3, role: markers, filename: assets/KR6q0219_003.markers.yaml, hash: 'sha256:a9831f6d24c78b98e485d0b18525d70ee04b1e3cd5a8c053e8e92ba4bed8d563'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0219_J_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0219_J_000-mulu-2
+    span:
+    - front
+    - 0
+    - 0
+  label: 錢澄序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0219_J_000-mulu-3
+    span:
+    - front
+    - 740
+    - 740
+  label: 錢江序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0219_J_000-mulu-4
+    span:
+    - front
+    - 984
+    - 984
+  label: 嚴沆
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0219_J_000-mulu-5
+    span:
+    - front
+    - 1212
+    - 1212
+  label: 許承家序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0219_J_001-juan-start
+    span:
+    - body
+    - 0
+    - 12837
+  label: 漆園指通卷之一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0219_J_001-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 逍遙遊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0219_J_001-mulu-2
+    span:
+    - body
+    - 1327
+    - 1327
+  label: 齊物論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0219_J_001-mulu-3
+    span:
+    - body
+    - 5381
+    - 5381
+  label: 養生主
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0219_J_001-mulu-4
+    span:
+    - body
+    - 5843
+    - 5843
+  label: 人間世
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0219_J_001-mulu-5
+    span:
+    - body
+    - 8094
+    - 8094
+  label: 德充符
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0219_J_001-mulu-6
+    span:
+    - body
+    - 9582
+    - 9582
+  label: 大宗師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0219_J_001-mulu-7
+    span:
+    - body
+    - 11912
+    - 11912
+  label: 應帝王
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-juan-start
+    span:
+    - body
+    - 0
+    - 11420
+  label: 漆園指通卷之二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-mulu-1
+    span:
+    - body
+    - 18
+    - 18
+  label: 駢拇
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-mulu-2
+    span:
+    - body
+    - 467
+    - 467
+  label: 馬蹄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-mulu-3
+    span:
+    - body
+    - 947
+    - 947
+  label: 胠篋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-mulu-4
+    span:
+    - body
+    - 1612
+    - 1612
+  label: 在宥
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-mulu-5
+    span:
+    - body
+    - 2966
+    - 2966
+  label: 天地
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-mulu-6
+    span:
+    - body
+    - 4594
+    - 4594
+  label: 天道
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-mulu-7
+    span:
+    - body
+    - 5565
+    - 5565
+  label: 天運
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-mulu-8
+    span:
+    - body
+    - 6608
+    - 6608
+  label: 刻意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-mulu-9
+    span:
+    - body
+    - 6890
+    - 6890
+  label: 繕性
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-mulu-10
+    span:
+    - body
+    - 7338
+    - 7338
+  label: 秋水
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-mulu-11
+    span:
+    - body
+    - 8659
+    - 8659
+  label: 至樂
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-mulu-12
+    span:
+    - body
+    - 9409
+    - 9409
+  label: 達生
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0219_J_002-mulu-13
+    span:
+    - body
+    - 10575
+    - 10575
+  label: 山木
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-juan-start
+    span:
+    - body
+    - 0
+    - 10881
+  label: 漆園指通卷之三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 田子方
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-mulu-2
+    span:
+    - body
+    - 785
+    - 785
+  label: 知北遊
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-mulu-3
+    span:
+    - body
+    - 2066
+    - 2066
+  label: 庚桑楚
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-mulu-4
+    span:
+    - body
+    - 3632
+    - 3632
+  label: 徐無鬼
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-mulu-5
+    span:
+    - body
+    - 5261
+    - 5261
+  label: 則陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-mulu-6
+    span:
+    - body
+    - 6242
+    - 6242
+  label: 外物
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-mulu-7
+    span:
+    - body
+    - 7186
+    - 7186
+  label: 寓言
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-mulu-8
+    span:
+    - body
+    - 7951
+    - 7951
+  label: 讓王
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-mulu-9
+    span:
+    - body
+    - 8471
+    - 8471
+  label: 盜跖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-mulu-10
+    span:
+    - body
+    - 8695
+    - 8695
+  label: 說劍
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-mulu-11
+    span:
+    - body
+    - 8782
+    - 8782
+  label: 漁父
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-mulu-12
+    span:
+    - body
+    - 8860
+    - 8860
+  label: 列御寇
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0219_J_003-mulu-13
+    span:
+    - body
+    - 9798
+    - 9798
+  label: 天下
+  type: mulu
+  level: 1
+hash: sha256:57cec27be3e6a2bd966f6ff5f8d50dc809e313355d4deb5398496e65fcf86479
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
