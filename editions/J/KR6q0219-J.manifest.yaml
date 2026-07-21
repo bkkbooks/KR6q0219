@@ -19,12 +19,12 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0219_000-J.yaml, hash: 'sha256:eabddf8633f600d7e91930207c71b8f3153c19b8bf8648ce7cfd277a4e806fa7'}
+  - {seq: 0, filename: KR6q0219_000-J.yaml, hash: 'sha256:177cc6d450e69fc3df3c156951be4f30b5ec3f8feb0a674c5480b0290eaa3f6e'}
   - {seq: 1, filename: KR6q0219_001-J.yaml, hash: 'sha256:982652734c26ec9226494e9b50af649c24ec8de18aec82d07b6305663eb1245b'}
   - {seq: 2, filename: KR6q0219_002-J.yaml, hash: 'sha256:98dccbdd1f2a56a5d0cac6def7dc42187a7818e831c2050a290dca776b5296f6'}
   - {seq: 3, filename: KR6q0219_003-J.yaml, hash: 'sha256:18bdaefc4fa7f7da5944a41d2fd99584c59f87114b4c19bc0d5b8eee94bfd881'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0219_000-J.markers.yaml, hash: 'sha256:4aa248520698c47b41db46b77e4758b402192fa38f26d2246aeaf4c83f52b081'}
+  - {seq: 0, role: markers, filename: assets/KR6q0219_000-J.markers.yaml, hash: 'sha256:edf54b3b3a104cf9eab45fcde0c0ad4343d81e84ff57f458a495d544f8103352'}
   - {seq: 1, role: markers, filename: assets/KR6q0219_001-J.markers.yaml, hash: 'sha256:fd770e43a7c043649ae707246bab64742465f2392afe91939d6061c63e6c1eff'}
   - {seq: 2, role: markers, filename: assets/KR6q0219_002-J.markers.yaml, hash: 'sha256:476c9bdae1d17014633c2e5a5f7b2ee16b09b6f4170f9e85e7d6e6ef86128eed'}
   - {seq: 3, role: markers, filename: assets/KR6q0219_003-J.markers.yaml, hash: 'sha256:6ff23416a2b8bfd4d20ff9d1f6a993fd4c5cb3aa700ce81ab7cdb34a0723b70a'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0219_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0219_J_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 錢澄序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0219_J_000-mulu-3
     span:
-    - front
+    - body
     - 740
     - 740
   label: 錢江序
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0219_J_000-mulu-4
     span:
-    - front
+    - body
     - 984
     - 984
   label: 嚴沆
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0219_J_000-mulu-5
     span:
-    - front
+    - body
     - 1212
     - 1212
   label: 許承家序
@@ -439,4 +439,4 @@ table_of_contents:
   label: 天下
   type: mulu
   level: 1
-hash: sha256:cc632a8db4157a34a3be196fe12f4f49cc83222fec6529eec431b390e2c876a5
+hash: sha256:0fa0d8c74599161b36e455c36f9687f8747c17775190d3b8886d5eee63125c74
